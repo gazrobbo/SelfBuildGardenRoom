@@ -1,0 +1,21 @@
+:root {
+  --primary-color: rgb(80, 80, 248);
+  --secondary-color: rgb(80, 248, 136);
+  --overlay-color: rgba(24, 39, 51, 0.85);
+  --menu-speed: 0.6s;
+}
+// RESET
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
